@@ -39,8 +39,6 @@ Neste repositório, você encontrará projetos de ponta, códigos avançados e s
 <!-- Redes Sociais -->
 ## Redes Sociais
 
-- Twitter: [@BrainInnovate](https://twitter.com/BrainInnovate)
-- LinkedIn: [BrainInnovate Solutions](https://www.linkedin.com/in/braininnovate)
 - Instagram: [@braininnovate](https://www.instagram.com/braininnovate)
 - Facebook [@braininnovate](https://www.facebook.com/BrainInnovate)
 
